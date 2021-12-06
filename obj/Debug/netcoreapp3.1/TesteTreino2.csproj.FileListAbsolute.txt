@@ -1,0 +1,13 @@
+C:\Users\Leandro\Desktop\source\repos\TesteTreino2\TesteTreino2\bin\Debug\netcoreapp3.1\TesteTreino2.exe
+C:\Users\Leandro\Desktop\source\repos\TesteTreino2\TesteTreino2\bin\Debug\netcoreapp3.1\TesteTreino2.deps.json
+C:\Users\Leandro\Desktop\source\repos\TesteTreino2\TesteTreino2\bin\Debug\netcoreapp3.1\TesteTreino2.runtimeconfig.json
+C:\Users\Leandro\Desktop\source\repos\TesteTreino2\TesteTreino2\bin\Debug\netcoreapp3.1\TesteTreino2.runtimeconfig.dev.json
+C:\Users\Leandro\Desktop\source\repos\TesteTreino2\TesteTreino2\bin\Debug\netcoreapp3.1\TesteTreino2.dll
+C:\Users\Leandro\Desktop\source\repos\TesteTreino2\TesteTreino2\bin\Debug\netcoreapp3.1\TesteTreino2.pdb
+C:\Users\Leandro\Desktop\source\repos\TesteTreino2\TesteTreino2\obj\Debug\netcoreapp3.1\TesteTreino2.csprojAssemblyReference.cache
+C:\Users\Leandro\Desktop\source\repos\TesteTreino2\TesteTreino2\obj\Debug\netcoreapp3.1\TesteTreino2.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\source\repos\TesteTreino2\TesteTreino2\obj\Debug\netcoreapp3.1\TesteTreino2.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\source\repos\TesteTreino2\TesteTreino2\obj\Debug\netcoreapp3.1\TesteTreino2.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\source\repos\TesteTreino2\TesteTreino2\obj\Debug\netcoreapp3.1\TesteTreino2.dll
+C:\Users\Leandro\Desktop\source\repos\TesteTreino2\TesteTreino2\obj\Debug\netcoreapp3.1\TesteTreino2.pdb
+C:\Users\Leandro\Desktop\source\repos\TesteTreino2\TesteTreino2\obj\Debug\netcoreapp3.1\TesteTreino2.genruntimeconfig.cache
